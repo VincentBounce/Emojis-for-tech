@@ -158,8 +158,3 @@ sign in [✅email | Google | Facebook | Apple | Microsoft | wallet | username | 
 Z📅/19 | Beneficiary | Account holder | https://youtu.be/ | watch?v=
 zz🙅USELESS | 🔬TO_TEST | (⚗️) zz🧪TEST_DATA | zz❄️RARELY_USED | zz👥DOUBLE | zz👨‍👩‍👧‍👦ON_BEHALF | zz💀OBSOLETE | zz LOST_EMAIL_STILL_ACCESS
 zzz🪦DEAD/DISCONTINUED | zzz🚫BANNED | zzz🤬NOT_TRUSTED | zzz🗑️TO_DELETE | zzz🗃️TO_SORT | zzz🚪CLOSED_BY_ME/door | zzz🕒EXPIRED | zzz💰FROZEN_DEBT
-Empty cell lookup on Google Sheet: ^s*$ | OBS formats: 1080x1920 | 1920x1080
-MacBook-Pro-14-VincZ | Parallels-VincZ | PC-VincZ-A | Android-Pixel9ProXL-VincZ
-[PayPal US: vincentbrd@gmail.com: [PaymentProcessor: cleverbridge Inc.]: VBWiseFR_USD]
-[PayPal FR: vincent.bourdeau@gmail.com: [Merchant: InterPromo GMBH]: USD balance]
-# 👨‍👨‍👧‍👦Payees/recipients/contacts/friends/family/crowd/beneficiaries/address book/society/Team/community/membership (🏘️)
