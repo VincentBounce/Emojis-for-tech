@@ -64,15 +64,86 @@ sign in [✅email | Google | Facebook | Apple | Microsoft | wallet | username | 
 🧩plug-in/component/plugin/extension/connector/to solve/puzzle \
 (༘☁︎☁︎⛆⛈🌤️🌧💭)☁️cloud \
 (↔️⎗⎘⎅◲⧈▣⧉)⿻diagrams/areas/mirroring/windows \
-(⇱⇲)⿹resolution/crop/resize/window/scale/format | ⧉paste | 🗳️survey/vote/ballot | (☠️)🏴‍☠️hacked/hacker/cracked/cracker/brute-force/attack | 💀skull/Digital legacy/death | (🦠)☣️Viruses/harmful/at risk | 🤬Scam/Scammer/fraude/phishing/NOT_TRUSTED | 📣Marketing/Promotional/Spam/Spammer/advertising | (⚰️)🕯Liminal | 📢Forum/Discord | 🔪Crime/criminality/murder | 🪦DEAD/DISCONTINUED/flop/abandoned/RIP/graveyard
-(👩‍🎓)👨🏻‍🎓scholar/scientist/mathematician/Research | (👩🏻‍💻)👨🏻‍💻terminal/command-line/CLI/CMD/coder/developer/prompt/programming/GitHub | 🛠️code/dev/utility | 🔧tweaks/system | 🧰tool | 🦸🏻‍♂️admin/superuser/manageable | 👨‍💼advisor | 🏞️images/img/gallery/inspiration = [ 🖼️artwork/pictures/background/wallpaper/thumbnail | 📷photos ] | 🐦X/Twitter | 📸IG=Instagram/screenshot | (⎚)📺YouTube/YT/TV/CRT | 🎙️YT creator | 🖍️draw/drawings (plans) | 🖌️digital art | 👾pixel art | 🏛️architecture/macOS Library/gov | (®✳️🐲🦖🐠)⛵icons/logos/brand | 🪁demoscene | 🐵NFTs | (🦸🏻)🦹Anime/manga | (🦤)🦆illustration | 🎞️videos/footage = [ 🎬VOD/VOD_OWNED | 📽️films/movies/projector/cinema | 📹series/TV shows/webcam/live camera ] | 🎭spectacle | 📼video capture | 🎥documentary/camera | ▶️🎦Facetime | (✄✂)✂️Scissors/clip/cutout | 🌡️sensor
-🔈Audio/sound = [🎵Music/ringtone | 🎙️Podcasts/ITW/media] | 🎤Microphone | 🔊Speakers/volume/noise | 🔴Stream/record | 🔇Mute/silent/quiet | 🎧headphones
-🏢business/company/firm/enterprise/corporate/building/HQ/productivity/LLC | 🏭factory/industry/manufacturing/manufacturer | 📊Stats/charts | 🆚Compare/VS/versus/competitor | 🚪exit/fired | (🔖)🏷️label/tag/sample/example | 🪧rename/caption/filename | 📫mailing | ⤵️📥DL/download/import/receive | ⤴️📤upload/export/send/pick up | (✜)𖣯QR code/chessboard/pixel | (䷀𝄃⦀𝍤)𐧃barcode | (😎)🤝my referral | 🫶compatibility | 🥏AirTag/Find My | (🔰)🎀customized
-(🇮⊞🍏)🖥️💻🪟🍎📱🔲🤖🐧🍓💠🧿🦊🟨🧭🕸💾⌚OSes/PWA/iOS/iPadOS/web browser | 🕶️Smart glasses | 👓HUD=Heads-Up Display/stereoscopy | (🤿ᯅ)🥽XR⊇[MR=VR+AR]/HMD=Head-Mounted Display/visionOS | 📧emails | 🧱regedit/block/brick/tetris | 🧊3D/virtual/voxel | 🗿modeling/3D printed | (🎨)🍭Colors | 🌈Display/Graphics/infographics/diagrams/LCD/OLED | 🌗HDR10 | (▦𖡤𓊂𓊁)⊞grid/table/array/spreadsheet/Excel/csv | 📟eSIM/line/HW=hardware wallets/pager | 𝕊𝕄𝕊SMS | (❝❞)💬chat/mp/comment/text/SMS/RCS/message/WA/motto/quotes | 📞calls | (🎠)🪀toys | (꩜)☝️fingerprint | (👍Pros/supported/SERIOUS)💚Good | 🧡Quitegood/soso | (👎Cons/unsupported)💔Bad | 🟠Submitted/not completed | ❌Wrong/KO/failed | (🤔)❓Not sure | (📛⛔️)🚫Forbidden/prohibited/unable/never/blocked/impossible | 🎓Tutorials/Examples/Learning/Teaching/demo | 🗄️LIST/registry/register/directory | (⚇⌂)⌻safe locker/vault | 🗂️CRITERIA/folders/merger | (📂)📁folder/path | 📃contract/pages | 👌Useful | (ꡙ‍ ꡌ‍)ꡚ‍labyrinth/maze/dungeon
-🤔🤦‍♀️🤷‍♀️🙈🫣☺️😊🤤😬🫵☝feelings | (😂🎢)🤣Fun | 👥users/group/public profile | 🤥fake | 🤡meme
-🇺🇸🇦🇪🇫🇷🇨🇭🇬🇧🇯🇵🇪🇺 🌎WW/regions 🏳️‍🌈country 🏳️🏁🏴⚐⚑flags/whitelist/blacklist | 💵💶💷د.إUSD/EUR/GBP/AED/cash/banknotes | (𐩺⚲)📍Locations/place/spot/center | 💢about | 🔮future/next/dreams | 🏪shop/stores/vendor | 🛍️E-commerce/web store/consumer | 🛒Orders/Buy/purchase/grocery | ⚜️Gold/Premium/Elite | 🆓free/basic | 🎲dice/combinations
-🚧Transfer limit | (🕒🕐⏰)⏱️Time/timer/duration measure/speed test | 🕘recent/history of files | (🐇🐢🐌)🏎️Speed | 🔬Tested | 👫Meet/date | 🍬Sugar | (🔭)🧲Physics/Magnets/MagSafe/levitation/physics engine/traction | (🔬)🧬Science | 🐩dog/quadruped | (🤘🥴)🦾Humanoid/robotics/mobile manipulator/mechatronics | 🦿biped | 🎆generative AI image | (֎✦)✨=🧠AI/LLM/AGI/GPT/artificial/brain/neuron | (🪄)Wizard/genius | 𝚿Psychology | 🆕New | ♟️Strategy | (🦮)🗺️guide/maps | (🏯)🙂Emoji | (🙏🏻)🤭Emoticon | (😉)㋛Smiley | (👨🏻)👨FaceID | 🎲ramdom | 📙manual/user guide/instructions/catalog
-🚙🚗Automotive/car | 🚁Drones | 🛸eVTOL | 🚲Electric bicycles | 🛵Electric scooter | 🏍️Electric motorcycles/motorbikes | 🛩️Airplane | ✈️Flights/airlines/roaming | 🛳️Ships | 🛥️Boats | 🛴Personal transporter = [ (𓈜⭕)🛞eUC/Electric unicycle/tyre/wheel | 🛴Electric standing scooter ] | 🥌Hovercraft | (Ⓜ)🚇Subway | (🚂🚅🚝)🚄Train | 🕓watch later | ☎️phone number/calling | ⚖️law/rules/legal | 👩🏻‍⚖️lawyers | 🧾bills/invoices/receipts/bank statements/POA | 🔏signing tx | 🔒locked/encrypted file | 🔓unlock/decrypt | 🔐encrypt/access/MPC/TPM/door lock cylinder | (ꗃꄗ⚷⁑⊛⁂✱✴✳⁕∗⁎*)🔑password=pwd/passphrase/passkey/keys/ZK/SSO/private key | (◐)🍰partition/chart/volume/shares/allocation/equity | 🫴sharing/shared/recipient/borrow/lend/receive | (⊘)✋Privacy/private/sensitive | ☝️advices/tips/please note | 🥷🏻hidden/hide/secret/concealed/anonymous/private mode/ninja | ✍️review/to register/to sign up/appy/prompt/fill out form/input | (💹)📈securities/stocks/ETFs/index/forex/brokerage/chart/results/growth/evolution | (⑂)🏦Banks/branches | 🅾️Bankruptcy | 👽Correspondent/foreign/alien/non standard | 🖍️🖊️🖋️🖌️✒️✏️〽️pencil | (𓍯)𒀽signature | (📇)✏️formatting | 📜thread | 📰articles/news/medias | 〰️cable/gooseneck/wire | 📼tape | 💾flashdrive/SD card/SSD/storage/floppy/external/disk/save/cartridge/capacity/memory | 🦊MetaMask | (😡)🚩report/claim/flag | 🌐websites/webpages/web/sites/domains/HTML | 📀Pop/DVD | 💽Software | 🟨JS/JavaScript | 🐍Python | (♨)♨️Java | 🗜Compress/ZIP/7z | (🔅)🔆Brightness | 🪟transparent | 🗞flexible/rollable | ⍞phone case | 🎩politics/elections/president | 🧨banger | 🚚shipping/forward
+(⇱⇲)⿹resolution/crop/resize/window/scale/format \
+🗳️survey/vote/ballot \
+(☠️)🏴‍☠️hacked/hacker/cracked/cracker/brute-force/attack \
+💀skull/Digital legacy/death \
+(🦠)☣️Viruses/harmful/at risk \
+🤬Scam/Scammer/fraude/phishing/NOT_TRUSTED | 📣Marketing/Promotional/Spam/Spammer/advertising
+(⚰️)🕯Liminal \
+📢Forum/Discord \
+🔪Crime/criminality/murder \
+🪦DEAD/DISCONTINUED/flop/abandoned/RIP/graveyard \
+(👩‍🎓)👨🏻‍🎓scholar/scientist/mathematician/Research \
+(👩🏻‍💻)👨🏻‍💻terminal/command-line/CLI/CMD/coder/developer/prompt/programming/GitHub \
+🛠️code/dev/utility | 🔧tweaks/system | 🧰tool | 🦸🏻‍♂️admin/superuser/manageable \
+👨‍💼advisor \
+🏞️images/img/gallery/inspiration = [ 🖼️artwork/pictures/background/wallpaper/thumbnail | 📷photos ] \
+🐦X/Twitter \
+📸IG=Instagram/screenshot \
+(⎚)📺YouTube/YT/TV/CRT | 🎙️YT creator | 🖍️draw/drawings (plans) | 🖌️digital art | 👾pixel art | 🏛️architecture/macOS Library/gov | (®✳️🐲🦖🐠)⛵icons/logos/brand | 🪁demoscene \
+🐵NFTs | (🦸🏻)🦹Anime/manga | (🦤)🦆illustration \
+🎞️videos/footage = [ 🎬VOD/VOD_OWNED | 📽️films/movies/projector/cinema | 📹series/TV shows/webcam/live camera ] \
+🎭spectacle | 📼video capture | 🎥documentary/camera | ▶️🎦Facetime \
+(✄✂)✂️Scissors/clip/cutout | 🌡️sensor
+🔈Audio/sound = [🎵Music/ringtone | 🎙️Podcasts/ITW/media] \
+🎤Microphone | 🔊Speakers/volume/noise | 🔴Stream/record | 🔇Mute/silent/quiet | 🎧headphones
+🏢business/company/firm/enterprise/corporate/building/HQ/productivity/LLC | 🏭factory/industry/manufacturing/manufacturer \
+📊Stats/charts \
+🆚Compare/VS/versus/competitor \
+🚪exit/fired \
+(🔖)🏷️label/tag/sample/example \
+🪧rename/caption/filename \
+📫mailing \
+⤵️📥DL/download/import/receive | ⤴️📤upload/export/send/pick up \
+(✜)𖣯QR code/chessboard/pixel | (䷀𝄃⦀𝍤)𐧃barcode \
+(😎)🤝my referral \
+🫶compatibility \
+🥏AirTag/Find My \
+(🔰)🎀customized
+(🇮⊞🍏)🖥️💻🪟🍎📱🔲🤖🐧🍓💠🧿🦊🟨🧭🕸💾⌚OSes/PWA/iOS/iPadOS/web browser \
+🕶️Smart glasses \
+👓HUD=Heads-Up Display/stereoscopy \
+(🤿ᯅ)🥽XR⊇[MR=VR+AR]/HMD=Head-Mounted Display/visionOS \
+📧emails \
+🧱regedit/block/brick/tetris \
+🧊3D/virtual/voxel | 🗿modeling/3D printed \
+(🎨)🍭Colors | 🌈Display/Graphics/infographics/diagrams/LCD/OLED | 🌗HDR10 \
+(▦𖡤𓊂𓊁)⊞grid/table/array/spreadsheet/Excel/csv \
+📟eSIM/line/HW=hardware wallets/pager | 𝕊𝕄𝕊SMS | (❝❞)💬chat/mp/comment/text/SMS/RCS/message/WA/motto/quotes | 📞calls \
+(🎠)🪀toys | (꩜)☝️fingerprint \
+(👍Pros/supported/SERIOUS)💚Good | 🧡Quitegood/soso | (👎Cons/unsupported)💔Bad | 🟠Submitted/not completed | ❌Wrong/KO/failed | (🤔)❓Not sure \
+(📛⛔️)🚫Forbidden/prohibited/unable/never/blocked/impossible \
+🎓Tutorials/Examples/Learning/Teaching/demo \
+🗄️LIST/registry/register/directory | 🗂️CRITERIA/folders/merger \ (📂)📁folder/path \
+(⚇⌂)⌻safe locker/vault📃contract/pages \
+👌Useful \
+(ꡙ‍ ꡌ‍)ꡚ‍labyrinth/maze/dungeon
+🤔🤦‍♀️🤷‍♀️🙈🫣☺️😊🤤😬🫵☝feelings \
+(😂🎢)🤣Fun \
+👥users/group/public profile \
+🤥fake \
+🤡meme \
+🇺🇸🇦🇪🇫🇷🇨🇭🇬🇧🇯🇵🇪🇺 🌎WW/regions 🏳️‍🌈country 🏳️🏁🏴⚐⚑flags/whitelist/blacklist \ 💵💶💷د.إUSD/EUR/GBP/AED/cash/banknotes \(𐩺⚲)📍Locations/place/spot/center \
+💢about \
+🔮future/next/dreams \
+🏪shop/stores/vendor | 🛍️E-commerce/web store/consumer | 🛒Orders/Buy/purchase/grocery \
+⚜️Gold/Premium/Elite | 🆓free/basic \
+🎲dice/combinations
+🚧Transfer limit | (🕒🕐⏰)⏱️Time/timer/duration measure/speed test | 🕘recent/history of files | (🐇🐢🐌)🏎️Speed | 🔬Tested \
+🍬Sugar \
+(🔭)🧲Physics/Magnets/MagSafe/levitation/physics engine/traction | (🔬)🧬Science \
+🐩dog/quadruped | (🤘🥴)🦾Humanoid/robotics/mobile manipulator/mechatronics | 🦿biped \
+🎆generative AI image | (֎✦)✨=🧠AI/LLM/AGI/GPT/artificial/brain/neuron | (🪄)Wizard/genius | 𝚿Psychology \
+🆕New | ♟️Strategy | (🦮)🗺️guide/maps | (🏯)🙂Emoji | (🙏🏻)🤭Emoticon | (😉)㋛Smiley | (👨🏻)👨FaceID \
+🎲ramdom | 📙manual/user guide/instructions/catalog
+🚙🚗Automotive/car | 🚁Drones | 🛸eVTOL | 🚲Electric bicycles | 🛵Electric scooter | 🏍️Electric motorcycles/motorbikes | 🛩️Airplane | ✈️Flights/airlines/roaming | 🛳️Ships | 🛥️Boats \
+🛴Personal transporter = [ (𓈜⭕)🛞eUC/Electric unicycle/tyre/wheel | 🛴Electric standing scooter ] | 🥌Hovercraft | (Ⓜ)🚇Subway | (🚂🚅🚝)🚄Train \
+🕓watch later | ☎️phone number/calling | ⚖️law/rules/legal | 👩🏻‍⚖️lawyers | 🧾bills/invoices/receipts/bank statements/POA \
+🔏signing tx | 🔒locked/encrypted file | 🔓unlock/decrypt | 🔐encrypt/access/MPC/TPM/door lock cylinder | (ꗃꄗ⚷⁑⊛⁂✱✴✳⁕∗⁎*)🔑password=pwd/passphrase/passkey/keys/ZK/SSO/private key \
+(◐)🍰partition/chart/volume/shares/allocation/equity | 🫴sharing/shared/recipient/borrow/lend/receive \
+(⊘)✋Privacy/private/sensitive | ☝️advices/tips/please note | 🥷🏻hidden/hide/secret/concealed/anonymous/private mode/ninja | ✍️review/to register/to sign up/appy/prompt/fill out form/input \
+(💹)📈securities/stocks/ETFs/index/forex/brokerage/chart/results/growth/evolution | (⑂)🏦Banks/branches | 🅾️Bankruptcy | 👽Correspondent/foreign/alien/non standard | 🖍️🖊️🖋️🖌️✒️✏️〽️pencil | (𓍯)𒀽signature | (📇)✏️formatting | 📜thread | 📰articles/news/medias | 〰️cable/gooseneck/wire | 📼tape | 💾flashdrive/SD card/SSD/storage/floppy/external/disk/save/cartridge/capacity/memory | 🦊MetaMask | (😡)🚩report/claim/flag | 🌐websites/webpages/web/sites/domains/HTML | 📀Pop/DVD | 💽Software | 🟨JS/JavaScript | 🐍Python | (♨)♨️Java | 🗜Compress/ZIP/7z | (🔅)🔆Brightness | 🪟transparent | 🗞flexible/rollable | ⍞phone case | 🎩politics/elections/president | 🧨banger | 🚚shipping/forward
 (🖌️)📝report/draft/text editor/blog/todo to do list/writing | 👀read only | # 🛡️Security/secure/safety/permissions/authorizations/VPN/shield | # (⌛)⏳Timeline of a brand | ⏯️Controls | 🚀Travel/launchpad/productive/technologies/startup/rocket | # 💳Payment method/CARD/paid/wallet | 👛crypto wallet | 🔞Adult/Under 18 | 🏘️Real estate | (🏛️⛫)🏰Museum/Exhibition/castle | # 🏙️Cities/city | (🥇🥈🥉)🏆ranking/hall of fame/winners/top | (🏅)🎖️Loyalty | 🎁Gift/donate/donations | (🤝🤑)💲sold/sale/sell/dollar/DCA/reward/rent/sponsor | 💰Paid/money/investment | 📐STANDARD | 📏size/rule | 📚reading/book/resource/magazines | 📖topics/documentation/meaning/dictionary/glossary/open-source | 🗂️Classification/table of contents/section/tabs | 📄file/document | 📑files/documents | 🗒️blank page/new post | (¶)🔣special char/unicode/glyph/grapheme/ASCII/ANSI/symbol | (≝)🔤vocabulary/wording/naming/definitions/define/syntax/file extension/sorted | 🔡/🔠lowercase/UPPERCASE/capitalize | (👉)➡️Process/Steps/Submit/default | 🌦️Weather | 🔫FPS | 🅿️abbreviations/acronyms | (Ⓥⓥ🇻)🅅vectorial | 🆅Versions | 🅰Applications/apps/App Store | 🦹comic | (👬🏼👯‍♂️)👭🏻Alternatives/clones/duplicates/dual/twins/copier/copy/competitor | 💡idea/inventor/patent | 🧢Merch | (𓊯𓊲𓊴)𓊳table/desk | 🏚⚒️🏡Renovation/fit-out | 🛋️Decoration/couch | 🤍minimalist | (𖭅𖦹౷಄꩜)🌀illusion/spiral | 🪄Assistant/Wizard | (🍕)🍔food/meals | ☁pollution | (👁‍🗨⏿)👁️Visualizations/view/eye/see/watch | 🔜upcoming/soon | 💯emphasize achievement, support, approval, and motivation (100% d'accord) | 🗣️spoken/speaking/conversation/voice | 👅language/tongue | (ヌΛ)ヌA translate | 𝕱𝖔𝖓𝖙𝖘 fonts/typefaces | 🗓️daily | 🌡️temperature | ⓘinfo | ❓?question | ❗! | ( 𑂱)◌dotted/dashed circle | (▶)▶️play/run/execute/activation | (⏸)⏸️pause | ⏯️play-pause | ⏏️🔅🔆⏮️⏭️🔉🚦🚥🌀
 (₿Ξ丰)💸crypto/DeFi | 🪙tokens/assets | ☢️CEX/Exchange | ⛏️crypto/mining | (⛓)⛓️Mainnet/BC=blockchain | 👐custody | ⛩️bridge
 🔴🟠🟡🟢🔵🟣🟤⚫⚪ | ────────────────
