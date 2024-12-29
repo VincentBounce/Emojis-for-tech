@@ -3,15 +3,15 @@
 	• → ← ➔ ↔︎ ⟷ ⭠⭢ ↔️↕️ ⬆️⬇️⬅️➡️ 🔼🔽◀️▶️ ↙️↘️↖️↗️ ⤹⤵ ↩️↪️ 🔃🔂🔀 ⬆⬇⬅⮕ ⇧⇩⇦⇨ ◼ ⏴⏵⏶⏷ ◀︎▶︎▲▼ ⨞▹ ➜ ➡ ➠ ➝ ⇣ ↹ ⬌ ↩ ↪ ⮐ ⮑ ☇ ☈ ↶ ↷
 💚👍👎 no-break space | ‬invisible | 
 
-(≔≣)☰⋮…[hamburger menu]
-(➖)➕[+ menu]/misc/others
-˅[dropdown menu] ^
-🏠Home/house/POA
-(☑✓✔)✖☑️To do/checked/checkbox/tasks
-✅Solved/Solving/Done/OK/success
-~~strikethrough~~
-Keyb: ⇧Shift ^Ctrl/⌘Cmd/⊞Win Alt/⌥Opt Enter↵⏎ Tab↹ ↑↓←→Arrow keys
-sign in [✅email | Google | Facebook | Apple | Microsoft | wallet | username | passkey | work email | email OTP | email link | SMS OTP | QR code]
+(≔≣)☰⋮…[hamburger menu] \
+(➖)➕[+ menu]/misc/others \
+˅[dropdown menu] ^ \
+🏠Home/house/POA \
+(☑✓✔)✖☑️To do/checked/checkbox/tasks \
+✅Solved/Solving/Done/OK/success \
+~~strikethrough~~ \
+Keyb: ⇧Shift ^Ctrl/⌘Cmd/⊞Win Alt/⌥Opt Enter↵⏎ Tab↹ ↑↓←→Arrow keys \
+sign in [✅email | Google | Facebook | Apple | Microsoft | wallet | username | passkey | work email | email OTP | email link | SMS OTP | QR code] \
 🌎🔌🧭🌞🌙🎙️ | (🔃💱)🔄IT/replace/pairing/sync/convert/swap/flip/reinit/recurring | (🔂)🔁Update | ⬆️Upgrade/increase | (↖)🖱️mouse/mice/pointer/cursor/click | ⌨️Keyboards/Hotkeys
 (⫘🔗)⤴️shortcut/Links/lnk/URLs | ⛓️‍💥unlink/offline | (↩️)⬅️undo/back/return/restart | ↪️redo/reset/renew | (↻)↺restore/recovery/backup | 🥶frozen/not responding | 🖨️printer/PDF | ✂️cut | 📑copy | 📋clipboard/paste | ↪drag'n drop | (𐦕𐄳᪣)ᚙCPU/GPU/BIOS/ARM64/(x86)AMD64/Core/firmware/ROMs/RAM/semiconductor/chipset | (⛃)⛁database/DB/HDD | (👣⛶⊹)⌖Tracking/tracker/tracked/target | 🚩Follow up | (🛂)🆔KYC/ID/KYB | 🪪Visa/passport/driving/driver/CNI | ☂️Insurance/coverage/guarantee/warranty/umbrella | (5🅶)ᯤ𝟱𝗚 5G/LTE | 📶cellular/GSM/mobile/embedded | ᯤwireless | 🛜Wi-Fi/wifi | 모router/network/IP/online | 📳NFC/FIDO2/security key/Tangem cards/contactless/wireless charging | 🔀protocol/toggle/switch | 📡carrier/RC/comm/antenna/radar | ᛒBT=Bluetooth | (🔱⥺⥰)⋲USB-C | ├Fork/derivation | ⚡Thunderbolt/PoE | 🧮computing/computer/desktop/requirements/algorithms/hash | (🦍)🔋power/charging/charger/battery | ⏽on ⭘off ⏻standby ⏼power on-off/switches ⏾sleep mode
 ⭐️favorites/famous | 👤profile/account/personal/owned/owner/sign in/login | 🙋🏻‍♀️sign up/join/open | 🧵thread | (⌯⩦🔎)🔍Search/magnifier/explorer/lookup/TO_FIND/zoom/filter/reader/(loupe) | 🧽📣marketing/ads/communication/newsletters | 🧽🔔notifications | 🔔YT subscriptions/notifications | 🚨urgent/alert/emergency | (𐓙⚠⨻⟁🔺️🔻)⚠️REQUIRED/warning/important/mandatory/caution/danger | 🛑stop/blocker | (×✕╳✖⛓️‍💥)❌delete/erase/not working/disconnect/cancel | (🚫♻️)🗑️uninstall/remove/bin/trash/BANNED | (⚙️💾📦)💿Install/setup/CD/optical/DVD/mount/Preservation/configuration | 💮License/key/certificate/stamp/notarization/trusted/genuine/original/official/agreement | 🧩plug-in/component/plugin/extension/connector/to solve/puzzle | (༘☁︎☁︎⛆⛈🌤️🌧💭)☁️cloud | (↔️⎗⎘⎅◲⧈▣⧉)⿻diagrams/areas/mirroring/windows | (⇱⇲)⿹resolution/crop/resize/window/scale/format | ⧉paste | 🗳️survey/vote/ballot | (☠️)🏴‍☠️hacked/hacker/cracked/cracker/brute-force/attack | 💀skull/Digital legacy/death | (🦠)☣️Viruses/harmful/at risk | 🤬Scam/Scammer/fraude/phishing/NOT_TRUSTED | 📣Marketing/Promotional/Spam/Spammer/advertising | (⚰️)🕯Liminal | 📢Forum/Discord | 🔪Crime/criminality/murder | 🪦DEAD/DISCONTINUED/flop/abandoned/RIP/graveyard
