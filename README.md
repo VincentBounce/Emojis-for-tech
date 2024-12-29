@@ -144,18 +144,45 @@ sign in [✅email | Google | Facebook | Apple | Microsoft | wallet | username | 
 (⊘)✋Privacy/private/sensitive | ☝️advices/tips/please note | 🥷🏻hidden/hide/secret/concealed/anonymous/private mode/ninja | ✍️review/to register/to sign up/appy/prompt/fill out form/input \
 (💹)📈securities/stocks/ETFs/index/forex/brokerage/chart/results/growth/evolution | (⑂)🏦Banks/branches | 🅾️Bankruptcy | 👽Correspondent/foreign/alien/non standard \
 🖍️🖊️🖋️🖌️✒️✏️〽️pencil | (𓍯)𒀽signature | (📇)✏️formatting \
-🧵thread | 📰articles/news/medias | 〰️cable/gooseneck/wire | 📼tape | 💾flashdrive/SD card/SSD/storage/floppy/external/disk/save/cartridge/capacity/memory | 🦊MetaMask | (😡)🚩report/claim/flag | 🌐websites/webpages/web/sites/domains/HTML | 📀Pop/DVD | 💽Software | 🟨JS/JavaScript | 🐍Python | (♨)♨️Java | 🗜Compress/ZIP/7z | (🔅)🔆Brightness | 🪟transparent | 🗞flexible/rollable | ⍞phone case | 🎩politics/elections/president | 🧨banger | 🚚shipping/forward
-(🖌️)📝report/draft/text editor/blog/todo to do list/writing | 👀read only | # 🛡️Security/secure/safety/permissions/authorizations/VPN/shield | # (⌛)⏳Timeline of a brand | ⏯️Controls | 🚀Travel/launchpad/productive/technologies/startup/rocket | # 💳Payment method/CARD/paid/wallet | 👛crypto wallet | 🔞Adult/Under 18 | 🏘️Real estate | (🏛️⛫)🏰Museum/Exhibition/castle | # 🏙️Cities/city | (🥇🥈🥉)🏆ranking/hall of fame/winners/top | (🏅)🎖️Loyalty | 🎁Gift/donate/donations | (🤝🤑)💲sold/sale/sell/dollar/DCA/reward/rent/sponsor | 💰Paid/money/investment | 📐STANDARD | 📏size/rule | 📚reading/book/resource/magazines | 📖topics/documentation/meaning/dictionary/glossary/open-source | 🗂️Classification/table of contents/section/tabs | 📄file/document | 📑files/documents | 🗒️blank page/new post | (¶)🔣special char/unicode/glyph/grapheme/ASCII/ANSI/symbol | (≝)🔤vocabulary/wording/naming/definitions/define/syntax/file extension/sorted | 🔡/🔠lowercase/UPPERCASE/capitalize | (👉)➡️Process/Steps/Submit/default | 🌦️Weather | 🔫FPS | 🅿️abbreviations/acronyms | (Ⓥⓥ🇻)🅅vectorial | 🆅Versions | 🅰Applications/apps/App Store | 🦹comic | (👬🏼👯‍♂️)👭🏻Alternatives/clones/duplicates/dual/twins/copier/copy/competitor | 💡idea/inventor/patent | 🧢Merch | (𓊯𓊲𓊴)𓊳table/desk | 🏚⚒️🏡Renovation/fit-out | 🛋️Decoration/couch | 🤍minimalist | (𖭅𖦹౷಄꩜)🌀illusion/spiral | 🪄Assistant/Wizard | (🍕)🍔food/meals | ☁pollution | (👁‍🗨⏿)👁️Visualizations/view/eye/see/watch | 🔜upcoming/soon | 💯emphasize achievement, support, approval, and motivation (100% d'accord) | 🗣️spoken/speaking/conversation/voice | 👅language/tongue | (ヌΛ)ヌA translate | 𝕱𝖔𝖓𝖙𝖘 fonts/typefaces | 🗓️daily | 🌡️temperature | ⓘinfo | ❓?question | ❗! | ( 𑂱)◌dotted/dashed circle | (▶)▶️play/run/execute/activation | (⏸)⏸️pause | ⏯️play-pause | ⏏️🔅🔆⏮️⏭️🔉🚦🚥🌀
-(₿Ξ丰)💸crypto/DeFi | 🪙tokens/assets | ☢️CEX/Exchange | ⛏️crypto/mining | (⛓)⛓️Mainnet/BC=blockchain | 👐custody | ⛩️bridge
-🔴🟠🟡🟢🔵🟣🟤⚫⚪ | ────────────────
-🟥🟧🟨🟩🟦🟪🟫⬛⬜ | 🔲◻️⬤𒊹◉ 🏻🏼🏽🏾🏿 🔶🔷 | VBKrakenFR_EUR [deposit ♾️ / withdrawals ≤$10M] | 🏠👽local/foreign bank account | ⬜blank
-❤️🧡💛💚💙💜🤎🖤🤍🩶🩵🩷Healthcare | 💟♥️💚💔❤️‍🩹❤️‍🔥💖💝💗💓💘💞 | 🔢Mathematics/NumPad/PIN code/passcode/calculator/number | (۞)◱Geometry
-^~ˆ˜═╬╠╣╚╝╔╗╩╦║─┼├┤└┘┌┐┴┬│丨“”«»‹›❮❯<>•⋅ | (╱)⟋/// | ♂️♂♀⚤⚢ | ➖➖━–(-classic)(—Apple) │┃2 ＋+4 *️5 6 8
-~roughly for people | ≈approximately for price | ≠ ≤ ≥ ± × 𝞹 ⊂⊆included in/subset of/⊄⊄not | ⊇⊃contains/includes/superset of/⊉⊅not | (∝∞💈)♾️infinite/unlimited
-𓌅∡⦛ √ ∛ ∜ ⨍𝑓Σ⦜ | ½ | ↉⅓⅔ | ¼¾ | ⅕⅖⅗⅘ | ⅙⅚ | ⅐ | ⅛⅜⅝⅞ | ⅑ | ⅒ | ⅟°º | (ø)⌀diameter | (⬢)⬡hexagon | 𝓍𝓎𝓏𝔁𝔂𝔃
-0123456789|0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟|⁰¹²³⁴⁵⁶⁷⁸⁹⁺⁻⁼⁽⁾ⁿⁱ|₀₁₂₃₄₅₆₇₈₉₊₋₌₍₎|𝟎𝟏𝟐𝟑𝟒𝟓𝟔𝟕𝟖𝟗|𝟘𝟙𝟚𝟛𝟜𝟝𝟞𝟟𝟠𝟡|𝟢𝟣𝟤𝟥𝟦𝟧𝟨𝟩𝟪𝟫|𝟬𝟭𝟮𝟯𝟰𝟱𝟲𝟳𝟴𝟵|𝟶𝟷𝟸𝟹𝟺𝟻𝟼𝟽𝟾𝟿|０１２３４５６７８９
-⓿❶❷❸❹❺❻❼❽❾⓫⓬⓭⓮⓯⓰⓱⓲⓳⓴|🄋➀➁➂➃➄➅➆➇➈➉|🄌➊➋➌➍➎➏➐➑➒➓ +10121 |⓵⓶⓷⓸⓹⓺⓻⓼⓽⓾| Ⅰ Ⅱ Ⅲ Ⅳ Ⅴ Ⅵ Ⅶ Ⅷ Ⅸ Ⅹ Ⅺ Ⅻ Ⅼ Ⅽ Ⅾ Ⅿ ⅰ ⅱ ⅲ ⅳ ⅴ ⅵ ⅶ ⅷ ⅸ ⅹ ⅺ ⅻ ⅼ ⅽ ⅾ ⅿ
-⓪①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟㊱㊲㊳㊴㊵㊶㊷㊸㊹㊺㊻㊼㊽㊾㊿|⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇|🄀⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛|🄁🄂🄃🄄🄅🄆🄇🄈🄉🄊
-Z📅/19 | Beneficiary | Account holder | https://youtu.be/ | watch?v=
-zz🙅USELESS | 🔬TO_TEST | (⚗️) zz🧪TEST_DATA | zz❄️RARELY_USED | zz👥DOUBLE | zz👨‍👩‍👧‍👦ON_BEHALF | zz💀OBSOLETE | zz LOST_EMAIL_STILL_ACCESS
-zzz🪦DEAD/DISCONTINUED | zzz🚫BANNED | zzz🤬NOT_TRUSTED | zzz🗑️TO_DELETE | zzz🗃️TO_SORT | zzz🚪CLOSED_BY_ME/door | zzz🕒EXPIRED | zzz💰FROZEN_DEBT
+🧵thread | 📰articles/news/medias | 〰️cable/gooseneck/wire | 📼tape | 💾flashdrive/SD card/SSD/storage/floppy/external/disk/save/cartridge/capacity/memory | 🦊MetaMask \
+(😡)🚩report/claim/flag | 🌐websites/webpages/web/sites/domains/HTML | 📀Pop/DVD | 💽Software | 🟨JS/JavaScript | 🐍Python | (♨)♨️Java | 🗜Compress/ZIP/7z | (🔅)🔆Brightness \
+🪟transparent | 🗞flexible/rollable | ⍞phone case \
+🎩politics/elections/president \
+🧨banger \
+🚚shipping/forward \
+(🖌️)📝report/draft/text editor/blog/todo to do list/writing \
+👀read only \
+🛡️Security/secure/safety/permissions/authorizations/VPN/shield \
+(⌛)⏳Timeline of a brand \
+⏯️Controls \
+🚀Travel/launchpad/productive/technologies/startup/rocket \
+💳Payment method/CARD/paid/wallet | 👛crypto wallet \
+🔞Adult/Under 18 \
+🏘️Real estate | (🏛️⛫)🏰Museum/Exhibition/castle | # 🏙️Cities/city \
+(🥇🥈🥉)🏆ranking/hall of fame/winners/top | (🏅)🎖️Loyalty \
+🎁Gift/donate/donations | (🤝🤑)💲sold/sale/sell/dollar/DCA/reward/rent/sponsor | 💰Paid/money/investment \
+📐STANDARD | 📏size/rule \
+📚reading/book/resource/magazines | 📖topics/documentation/meaning/dictionary/glossary/open-source \
+🗂️Classification/table of contents/section/tabs | 📄file/document | 📑files/documents | 🗒️blank page/new post \
+(¶)🔣special char/unicode/glyph/grapheme/ASCII/ANSI/symbol | (≝)🔤vocabulary/wording/naming/definitions/define/syntax/file extension/sorted | 🔡/🔠lowercase/UPPERCASE/capitalize \
+(👉)➡️Process/Steps/Submit/default \
+🌦️Weather \
+🅿️abbreviations/acronyms | (Ⓥⓥ🇻)🅅vectorial | 🆅Versions | 🅰Applications/apps/App Store \
+🦹comic | (👬🏼👯‍♂️)👭🏻Alternatives/clones/duplicates/dual/twins/copier/copy/competitor | 💡idea/inventor/patent | 🧢Merch \
+(𓊯𓊲𓊴)𓊳table/desk | 🏚⚒️🏡Renovation/fit-out | 🛋️Decoration/couch \
+🤍minimalist | (𖭅𖦹౷಄꩜)🌀illusion/spiral | 🪄Assistant/Wizard | (🍕)🍔food/meals | ☁pollution | (👁‍🗨⏿)👁️Visualizations/view/eye/see/watch | 🔜upcoming/soon \
+💯emphasize achievement, support, approval, and motivation (100% d'accord) \
+🗣️spoken/speaking/conversation/voice | 👅language/tongue | (ヌΛ)ヌA translate | 𝕱𝖔𝖓𝖙𝖘 fonts/typefaces | 🗓️daily | 🌡️temperature \
+ⓘinfo | ❓?question | ❗! | ( 𑂱)◌dotted/dashed circle | (▶)▶️play/run/execute/activation | (⏸)⏸️pause | ⏯️play-pause | ⏏️🔅🔆⏮️⏭️🔉🚦🚥🌀
+(₿Ξ丰)💸crypto/DeFi | 🪙tokens/assets | ☢️CEX/Exchange | ⛏️crypto/mining | (⛓)⛓️Mainnet/BC=blockchain | 👐custody | ⛩️bridge \
+🔴🟠🟡🟢🔵🟣🟤⚫⚪ | ──────────────── \
+🟥🟧🟨🟩🟦🟪🟫⬛⬜ | 🔲◻️⬤𒊹◉ 🏻🏼🏽🏾🏿 🔶🔷 | VBKrakenFR_EUR [deposit ♾️ / withdrawals ≤$10M] | 🏠👽local/foreign bank account | ⬜blank \
+❤️🧡💛💚💙💜🤎🖤🤍🩶🩵🩷Healthcare | 💟♥️💚💔❤️‍🩹❤️‍🔥💖💝💗💓💘💞 | 🔢Mathematics/NumPad/PIN code/passcode/calculator/number | (۞)◱Geometry \
+^~ˆ˜═╬╠╣╚╝╔╗╩╦║─┼├┤└┘┌┐┴┬│丨“”«»‹›❮❯<>•⋅ | (╱)⟋/// | ♂️♂♀⚤⚢ | ➖➖━–(-classic)(—Apple) │┃2 ＋+4 *️5 6 8 \
+~roughly for people | ≈approximately for price | ≠ ≤ ≥ ± × 𝞹 ⊂⊆included in/subset of/⊄⊄not | ⊇⊃contains/includes/superset of/⊉⊅not | (∝∞💈)♾️infinite/unlimited \
+𓌅∡⦛ √ ∛ ∜ ⨍𝑓Σ⦜ | ½ | ↉⅓⅔ | ¼¾ | ⅕⅖⅗⅘ | ⅙⅚ | ⅐ | ⅛⅜⅝⅞ | ⅑ | ⅒ | ⅟°º | (ø)⌀diameter | (⬢)⬡hexagon | 𝓍𝓎𝓏𝔁𝔂𝔃 \
+0123456789|0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟|⁰¹²³⁴⁵⁶⁷⁸⁹⁺⁻⁼⁽⁾ⁿⁱ|₀₁₂₃₄₅₆₇₈₉₊₋₌₍₎|𝟎𝟏𝟐𝟑𝟒𝟓𝟔𝟕𝟖𝟗|𝟘𝟙𝟚𝟛𝟜𝟝𝟞𝟟𝟠𝟡|𝟢𝟣𝟤𝟥𝟦𝟧𝟨𝟩𝟪𝟫|𝟬𝟭𝟮𝟯𝟰𝟱𝟲𝟳𝟴𝟵|𝟶𝟷𝟸𝟹𝟺𝟻𝟼𝟽𝟾𝟿|０１２３４５６７８９ \
+⓿❶❷❸❹❺❻❼❽❾⓫⓬⓭⓮⓯⓰⓱⓲⓳⓴|🄋➀➁➂➃➄➅➆➇➈➉|🄌➊➋➌➍➎➏➐➑➒➓ +10121 |⓵⓶⓷⓸⓹⓺⓻⓼⓽⓾| Ⅰ Ⅱ Ⅲ Ⅳ Ⅴ Ⅵ Ⅶ Ⅷ Ⅸ Ⅹ Ⅺ Ⅻ Ⅼ Ⅽ Ⅾ Ⅿ ⅰ ⅱ ⅲ ⅳ ⅴ ⅵ ⅶ ⅷ ⅸ ⅹ ⅺ ⅻ ⅼ ⅽ ⅾ ⅿ \
+⓪①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟㊱㊲㊳㊴㊵㊶㊷㊸㊹㊺㊻㊼㊽㊾㊿|⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇|🄀⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛|🄁🄂🄃🄄🄅🄆🄇🄈🄉🄊 \
+zz🙅USELESS | 🔬TO_TEST | (⚗️) zz🧪TEST_DATA | zz❄️RARELY_USED | zz👥DOUBLE | zz👨‍👩‍👧‍👦ON_BEHALF | zz💀OBSOLETE | zz LOST_EMAIL_STILL_ACCESS \
+zzz🪦DEAD/DISCONTINUED | zzz🚫BANNED | zzz🤬NOT_TRUSTED | zzz🗑️TO_DELETE | zzz🗃️TO_SORT | zzz🚪CLOSED_BY_ME/door | zzz🕒EXPIRED | zzz💰FROZEN_DEBT \
