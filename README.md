@@ -82,9 +82,9 @@ sign in [✅email | Google | Facebook | Apple | Microsoft | wallet | username | 
 🐵NFTs | (🦸🏻)🦹Anime/manga | (🦤)🦆illustration \
 🎞️videos/footage = [ 🎬VOD/VOD_OWNED | 📽️films/movies/projector/cinema | 📹series/TV shows/webcam/live camera ] \
 🎭spectacle | 📼video capture | 🎥documentary/camera | ▶️🎦Facetime \
-(✄✂)✂️Scissors/clip/cutout | 🌡️sensor
+(✄✂)✂️Scissors/clip/cutout | 🌡️sensor \
 🔈Audio/sound = [🎵Music/ringtone | 🎙️Podcasts/ITW/media] \
-🎤Microphone | 🔊Speakers/volume/noise | 🔴Stream/record | 🔇Mute/silent/quiet | 🎧headphones
+🎤Microphone | 🔊Speakers/volume/noise | 🔴Stream/record | 🔇Mute/silent/quiet | 🎧headphones \
 🏢business/company/firm/enterprise/corporate/building/HQ/productivity/LLC | 🏭factory/industry/manufacturing/manufacturer \
 📊Stats/charts \
 🆚Compare/VS/versus/competitor \
@@ -97,7 +97,7 @@ sign in [✅email | Google | Facebook | Apple | Microsoft | wallet | username | 
 (😎)🤝my referral \
 🫶compatibility \
 🥏AirTag/Find My \
-(🔰)🎀customized
+(🔰)🎀customized \
 (🇮⊞🍏)🖥️💻🪟🍎📱🔲🤖🐧🍓💠🧿🦊🟨🧭🕸💾⌚OSes/PWA/iOS/iPadOS/web browser \
 🕶️Smart glasses \
 👓HUD=Heads-Up Display/stereoscopy \
@@ -115,7 +115,7 @@ sign in [✅email | Google | Facebook | Apple | Microsoft | wallet | username | 
 🗄️LIST/registry/register/directory | 🗂️CRITERIA/folders/merger \ (📂)📁folder/path \
 (⚇⌂)⌻safe locker/vault📃contract/pages \
 👌Useful \
-(ꡙ‍ ꡌ‍)ꡚ‍labyrinth/maze/dungeon
+(ꡙ‍ ꡌ‍)ꡚ‍labyrinth/maze/dungeon \
 🤔🤦‍♀️🤷‍♀️🙈🫣☺️😊🤤😬🫵☝feelings \
 (😂🎢)🤣Fun \
 👥users/group/public profile \
@@ -126,7 +126,7 @@ sign in [✅email | Google | Facebook | Apple | Microsoft | wallet | username | 
 🔮future/next/dreams \
 🏪shop/stores/vendor | 🛍️E-commerce/web store/consumer | 🛒Orders/Buy/purchase/grocery \
 ⚜️Gold/Premium/Elite | 🆓free/basic \
-🎲dice/combinations
+🎲dice/combinations \
 🚧Transfer limit | (🕒🕐⏰)⏱️Time/timer/duration measure/speed test | 🕘recent/history of files | (🐇🐢🐌)🏎️Speed | 🔬Tested \
 🍬Sugar \
 (🔭)🧲Physics/Magnets/MagSafe/levitation/physics engine/traction | (🔬)🧬Science \
