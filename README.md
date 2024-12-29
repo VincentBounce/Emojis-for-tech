@@ -8,7 +8,6 @@
 🏠Home/house/POA \
 (☑✓✔)✖☑️To do/checked/checkbox/tasks \
 ✅Solved/Solving/Done/OK/success \
-~~strikethrough~~ \
 Keyb: ⇧Shift ^Ctrl/⌘Cmd/⊞Win Alt/⌥Opt Enter↵⏎ Tab↹ ↑↓←→Arrow keys \
 sign in [✅email | Google | Facebook | Apple | Microsoft | wallet | username | passkey | work email | email OTP | email link | SMS OTP | QR code] \
 (🔃💱)🔄IT/replace/pairing/sync/convert/swap/flip/reinit/recurring \
